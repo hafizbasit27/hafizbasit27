@@ -46,7 +46,7 @@ Customer segmentation analysis using Python (RFM modeling for e-commerce custome
 |-------|-----------|
 | Language | Python |
 | Analysis | RFM Segmentation |
-| Tools | Excel, SQL |
+| Tools | Python, Jupyter Notebook |
 
 🔗 [Live/Repo](https://github.com/hafizbasit27/E-Commerce-Customer-Segmentation-RFM) &nbsp;|&nbsp; 💻 [Code](https://github.com/hafizbasit27/E-Commerce-Customer-Segmentation-RFM)
 
@@ -59,7 +59,7 @@ End-to-end data analysis on customer churn prediction.
 |-------|-----------|
 | Language | Python / SQL |
 | Analysis | Churn Prediction |
-| Visualization | Power BI, Tableau |
+| Visualization | Power BI |
 
 🔗 [Live/Repo](https://github.com/hafizbasit27/Bank-Customer-Churn-Analysis) &nbsp;|&nbsp; 💻 [Code](https://github.com/hafizbasit27/Bank-Customer-Churn-Analysis)
 
